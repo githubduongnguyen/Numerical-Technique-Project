@@ -1,5 +1,4 @@
 # Numerical-Technique-Project
-# Numerical Technique Project
 
 **ISFA – M2 Actuariat**  
 Techniques Numériques – Final Project (2026)
