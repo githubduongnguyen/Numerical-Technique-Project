@@ -19,10 +19,5 @@ Main objectives:
 - Construct and evaluate a model point
 - Estimate Value-at-Risk (VaR)
 
----
 
-## Model Setup
-
-### Asset Dynamics (Risk-Neutral)
-dS_t / S_t = r_t dt + sigma dW_t
 
